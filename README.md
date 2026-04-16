@@ -13,7 +13,6 @@ Currently, two official plugins are available:
 
 ## Traffic Prediction & Route Planner
 - Predicts traffic using LSTM neural network
-- Integrated Google Maps API for optimal routes
 - 85% prediction accuracy on test data
 
 ## Tech Stack
