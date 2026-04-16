@@ -10,3 +10,15 @@ Currently, two official plugins are available:
 - Predictive traffic heatmap & junction-aware route planning (React + Python)
 
 - react, python, traffic, maps, routing
+
+## Traffic Prediction & Route Planner
+- Predicts traffic using LSTM neural network
+- Integrated Google Maps API for optimal routes
+- 85% prediction accuracy on test data
+
+## Tech Stack
+Python, TensorFlow, Scikit-learn, Google Maps API
+
+## How to Run
+pip install -r requirements.txt
+python app.py
